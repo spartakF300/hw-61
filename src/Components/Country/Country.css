@@ -1,0 +1,9 @@
+.name{
+    padding: 15px 5px;
+    margin: 5px;
+    background: darkgray;
+    cursor: pointer;
+}
+.name:hover{
+    transform: scale(1.1);
+}
